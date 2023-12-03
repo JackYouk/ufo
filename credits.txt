@@ -1,0 +1,5 @@
+Starter code:
+https://github.com/Domenicobrz/R3F-takes-flight
+
+Ufo model:
+https://sketchfab.com/3d-models/bob-lazar-ufo-75f488cec00e4dc88b7d6bc5867cdaef
